@@ -22,11 +22,16 @@ I'm currently studying at UNICAMP, seeking my Bachelor on Informations Systems, 
 
 [![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=luizfelipers)](https://github.com/anuraghazra/github-readme-stats) 
 
- 🔭 I’m currently focused on improving my skills in:
+ 🔭 I’m currently working my:
+ 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### May the Force be with you! 😄
+Tools I feel comfortable using:
 
+![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+and I code in Visual Studio Code.😄
