@@ -22,7 +22,7 @@ I'm currently studying at UNICAMP, seeking my Bachelor on Informations Systems, 
 
 [![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=luizfelipers)](https://github.com/anuraghazra/github-readme-stats) 
 
- 🔭 I’m currently working my:
+ 🔭 I’m currently coding:
  
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
