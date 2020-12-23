@@ -35,3 +35,5 @@ Tools I feel comfortable using:
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 and I code in Visual Studio Code.😄
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
