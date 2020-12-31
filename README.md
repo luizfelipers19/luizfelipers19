@@ -20,7 +20,7 @@ I'm currently studying at UNICAMP, seeking my Bachelor on Informations Systems, 
 
 🌱 In my spare time, I like to read, learn new things, watch video-courses, explore technologies, and besides all the technical activities, I also fancy practicing sports, staying with friends and family, watching movies, cooking and to travel.
 
-[![Luiz's github stats](https://github-readme-stats.vercel.app/api?username=luizfelipers)](https://github.com/anuraghazra/github-readme-stats) 
+
 
  🔭 I’m currently coding:
  
@@ -36,4 +36,4 @@ Tools I feel comfortable using:
 
 and I code in Visual Studio Code.😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
