@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there! 👋 :bear:
 
 <!--
 **luizfelipers/luizfelipers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My name is Luiz Felipe. I'm from Brazil and I'm passionate about technology and games!
+### My name is Luiz Felipe. I'm from Brazil :brazil: and I'm passionate about technology :computer: and games :video_game:!
 
 I'm currently studying at UNICAMP, seeking my Bachelor's in Informations Systems, and I love to explore new technologies and discover new skills. Since I was a little child, I am totally passionate about Visual Effects production (I'm a huge fan of Star Wars! ⚡), which led me into an autodidact path of exploring technologies, until I discovered programming. During my college, I found the opportunity to give some attention to the Computer Graphics area, learning about games, animations, and trending topics such as Motion Capture, Augmented Reality, and Virtual Reality. Despite not being an artist, working with Computer Graphics was something that leveraged my Computer Science skills, like programming, attention to details, and systematic thinking, which helped me to get a good step towards learning Front-End and Back-End Development, as well as some Database, Data Analysis and AI knowledge I've acquired in classes during my University journey. 😄
 
