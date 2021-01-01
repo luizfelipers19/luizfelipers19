@@ -22,7 +22,7 @@ I'm currently studying at UNICAMP, seeking my Bachelor's in Informations Systems
 
 
 
- 🔭 I’m currently coding:
+ 🔭 I’m currently coding in:
  
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +34,5 @@ Tools I feel comfortable using:
 ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-and I code in Visual Studio Code.😄
 
 
