@@ -20,9 +20,6 @@ I'm currently studying at UNICAMP, seeking my Bachelor's in Informations Systems
 
 During College, I found the opportunity to immerse myself into the Computer Graphics area, which leveraged my problem solving skills, attention to details, and systematic thinking,  helping me to get a good step towards learning Front-End and Back-End Development, as well as Data Analysis and AI knowledge I've acquired in books and classes through my academic journey. 😄
 
-🌱 In my spare time, I like to read, learn new things, watch video-courses, explore technologies, and besides all the technical activities, I also fancy practicing sports, staying with friends and family, watching movies, cooking, and traveling.
-
-
 
  🔭 I’m currently coding in:
  
