@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm currently studying at UNICAMP, seeking my Bachelor's in Informations Systems, and I love to explore new technologies and discover new skills. Since I was a child, I am totally passionate about Visual Effects (I'm a huge fan of Star Wars! ⚡), which led me into an autodidact path of exploring how dynamic things were made, discovering and experimenting technologies, until I had my first contact w/ programming in High School. 
 
-During College, I found the opportunity to immerse myself into the Computer Graphics area, which leveraged my problem solving skills, attention to details, and systematic thinking,  helping me to get a good step towards learning Front-End and Back-End Development, as well as Data Analysis and AI knowledge I've acquired in books and classes through my academic journey. 😄
+During College, I found the opportunity to immerse myself into the Computer Graphics area, which leveraged my problem solving skills, attention to details, and systematic and algebraic thinking,  helping me to get a good step towards learning Front-End and Back-End Development, as well as Data Analysis and AI knowledge I've acquired in books and classes through my academic journey. 😄
 
 
  🔭 I’m currently coding in:
