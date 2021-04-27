@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### My name is Luiz Felipe. I'm from Brazil :brazil: , and I'm passionate about technology :computer: and games :video_game:!
 
-<img src="https://user-images.githubusercontent.com/26651389/116245558-7a34f000-a73f-11eb-8314-6da91b87cc95.gif" min-width="300px" max-width="300px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 I'm currently studying at UNICAMP, seeking my Bachelor's in Informations Systems, and I love to explore new technologies and discover new skills. Since I was a child, I am totally passionate about Visual Effects (I'm a huge fan of Star Wars! ⚡), which led me into an autodidact path of exploring how dynamic things were made, experimenting and studying technologies, until I had my first contact w/ programming in High School. 
 
